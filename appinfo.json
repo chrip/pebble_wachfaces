@@ -1,0 +1,35 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "EYEVIDO",
+    "enableMultiJS": true,
+    "longName": "Inner Circle",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_pic.png",
+                "menuIcon": true,
+                "name": "menu_pic",
+                "targetPlatforms": null,
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Inner Circle",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "a1d64ca3-2e4b-4f66-af0e-4770fdc871bf",
+    "versionLabel": "0.11",
+    "watchapp": {
+        "watchface": true
+    }
+}
